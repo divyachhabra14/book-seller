@@ -5,6 +5,7 @@ import lombok.Data;
 import javax.persistence.*;
 import java.time.LocalDateTime;
 
+//It is a book Model class
 @Data
 @Entity
 @Table(name = "books")
